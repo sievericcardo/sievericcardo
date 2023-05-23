@@ -41,7 +41,7 @@
 <img align="left" alt="Android Studio" width="26px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Godot" width="26px" src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-<img align="left" alt="Cyberark" width="26px" src="https://www.vectorlogo.zone/logos/cyberark/cyberark-icon.svgg" style="padding-right:10px;" />
+<img align="left" alt="Cyberark" width="26px" src="https://www.vectorlogo.zone/logos/cyberark/cyberark-icon.svg" style="padding-right:10px;" />
 
 ---
 <br>
