@@ -1,6 +1,6 @@
 # Hello there, I'm Riccardo - aka [Xelinion][twitch] 👋
 
-## I'm a Developer!
+## I'm a Developer and a Fellow PhD Student!
 - 🌱 I’m always trying to learn something new
 - 🕮 When in doubt, a book is always a good idea
 - 👯 I’m looking to collaborate with other content creators
