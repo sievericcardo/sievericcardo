@@ -4,7 +4,7 @@
 - 🌱 I’m always trying to learn something new
 - 🕮 When in doubt, a book is always a good idea
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about distributed programming and Ai
+- 🥅 2024 Goals: Learn more about distributed programming, Ai, and Digital Twins
 - 🎮 In my free I play with friends (MMO included)
 
 ### Connect with me:
