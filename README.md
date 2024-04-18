@@ -15,6 +15,7 @@
 ### Languages and Framework:
 <img align="left" alt="Spring Framework" width="26px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" style="padding-right:10px;" />
+<img align="left" alt="Kotlin" width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="padding-right:10px;" />
