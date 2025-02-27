@@ -3,7 +3,7 @@
 ## I'm a Developer and a Fellow PhD Student!
 - 🌱 I’m always trying to learn something new
 - 🕮 When in doubt, a book is always a good idea
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other researchers and developers
 - 🥅 2024 Goals: Learn more about distributed programming, Ai, and Digital Twins
 - 🎮 In my free I play with friends (MMO included)
 
