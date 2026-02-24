@@ -49,8 +49,10 @@
 
 ### Recent GitHub Activity
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sievericcardo&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sievericcardo&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sievericcardo&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sievericcardo&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sievericcardo)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitch]: https://www.twitch.tv/xelinion
 [linkedin]: https://www.linkedin.com/in/sieve-riccardo/
